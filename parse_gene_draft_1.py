@@ -15,7 +15,7 @@ record.annotations → extra info (for formats like GenBank)
 import os
 from Bio import SeqIO # Importing the sub module from BioPython 
 
-os.chdir ("/Users/jaichowdhary/gRNA_design") # uses the os module to to always change the directory in this script to "gRNA_design".
+#os.chdir ("/Users/jaichowdhary/gRNA_design") # uses the os module to to always change the directory in this script to "gRNA_design".
 """
 TP53_file = SeqIO.read("TP53.fna","fasta")      # using the SeqIO.read() function to read the FASTA file
 print (TP53_file.id)
