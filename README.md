@@ -1,4 +1,6 @@
-gRNA Design Pipeline (SpCas9)
+CRISPR SpCas9 gRNA Design Pipeline  
+Author: Jai Singh Chowdhary
+
 
 Overview
 -  This project implements a modular Python pipeline for identifying candidate guide RNAs (gRNAs) compatible with the CRISPR SpCas9 system from a user-provided FASTA file.
