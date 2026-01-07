@@ -13,7 +13,7 @@ Biological Assumptions
 -  gRNA length: 20 nucleotides
 -  Strand normalization: Sequences may be reverse-complemented to ensure consistent upstream PAM scanning logic
 -  GC content filter: 40–60% (proxy for gRNA binding stability)
-
+Note: These assumptions reflect commonly documented and used CRISPR–SpCas9 guide design practices.
 
 Pipeline Steps
 -  Load FASTA records using Biopython
@@ -68,5 +68,5 @@ Future Improvements
 
 
 Author Notes
-
+This project was developed to explore CRISPR–Cas9 guide RNA design from a computational perspective and to demonstrate biological understanding informed by literature review alongside foundational programming skills. The gRNA design problem was chosen because it requires translating well-established biological constraints into explicit algorithmic logic, including sequence scanning, filtering, and quantitative feature calculation. From a software perspective, the pipeline emphasizes structured programming, modular function design, and clear data flow between analysis stages. The resulting script serves both as a functional gRNA candidate identification tool and as a demonstration of basic bioinformatics pipeline construction.
 
