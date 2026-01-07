@@ -68,5 +68,6 @@ Future Improvements
 
 
 Author Notes
+
 This project was developed to explore CRISPR–Cas9 guide RNA design from a computational perspective and to demonstrate biological understanding informed by literature review alongside foundational programming skills. The gRNA design problem was chosen because it requires translating well-established biological constraints into explicit algorithmic logic, including sequence scanning, filtering, and quantitative feature calculation. From a software perspective, the pipeline emphasizes structured programming, modular function design, and clear data flow between analysis stages. The resulting script serves both as a functional gRNA candidate identification tool and as a demonstration of basic bioinformatics pipeline construction.
 
