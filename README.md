@@ -1,6 +1,10 @@
 CRISPR SpCas9 gRNA Design Pipeline  
 Author: Jai Singh Chowdhary
 
+Full Source Code: 
+https://github.com/jaichowdhary/gRNA_design
+
+The complete implementation, and development history is provided via the linked Github Repository mentioned above. 
 
 Overview
 -  This project implements a modular Python pipeline for identifying candidate guide RNAs (gRNAs) compatible with the CRISPR SpCas9 system from a user-provided FASTA file.
